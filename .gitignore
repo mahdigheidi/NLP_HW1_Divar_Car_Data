@@ -10,3 +10,5 @@ Pipfile.lock
 # Ignore IDE specific files
 .vscode/
 .idea/
+
+output.*
